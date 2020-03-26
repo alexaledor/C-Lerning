@@ -1,0 +1,16 @@
+E:\MyProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.exe
+E:\MyProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.deps.json
+E:\MyProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.json
+E:\MyProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.dev.json
+E:\MyProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.dll
+E:\MyProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.pdb
+E:\MyProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csprojAssemblyReference.cache
+E:\MyProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfoInputs.cache
+E:\MyProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfo.cs
+E:\MyProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.dll
+E:\MyProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.pdb
+E:\MyProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.genruntimeconfig.cache
+E:\MyProject\MyFirstProject\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+E:\MyProject\MyFirstProject\bin\Debug\netcoreapp3.1\Nest.dll
+E:\MyProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CoreCompileInputs.cache
+E:\MyProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CopyComplete
