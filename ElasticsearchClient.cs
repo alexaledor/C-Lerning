@@ -10,16 +10,16 @@ namespace MyFirstProject
     public class ElasticsearchClient
     {
         private ElasticClient client = null;
-        private string serchString;
+        //private string serchString;
 
-        public ElasticsearchClient(string condition)
+        public ElasticsearchClient()
         {
             var uri = new Uri("http://localhost:9200");
             var settings = new ConnectionSettings(uri);
             client = new ElasticClient(settings);
             settings.DefaultIndex("test");
             
-            serchString = condition;
+            //serchString = condition;
             
             var response = client.Cluster.Health();
             Console.WriteLine(response.Status);            
@@ -40,7 +40,7 @@ namespace MyFirstProject
             }                          
         }
 
-        public List<Test> GetResult(string serchString)
+        public List<Test> GetResult(string condition)
         {
             if (client.Indices.Exists("test").Exists)
             {
@@ -51,7 +51,7 @@ namespace MyFirstProject
                 .Query(q => q
                     .Match(m => m
                         .Field("title")
-                        .Query(serchString)// "my first test"
+                        .Query(condition)// "my first test"
                         .Operator(Operator.And)))).Documents.ToList();
             }
             return null;
