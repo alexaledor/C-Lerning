@@ -234,11 +234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\MyFirstProject\\MyFirstProject.csproj",
+      "projectUniqueName": "K:\\MyProject\\MyFirstProject\\MyFirstProject.csproj",
       "projectName": "MyFirstProject",
-      "projectPath": "E:\\MyProject\\MyFirstProject\\MyFirstProject.csproj",
+      "projectPath": "K:\\MyProject\\MyFirstProject\\MyFirstProject.csproj",
       "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\MyFirstProject\\obj\\",
+      "outputPath": "K:\\MyProject\\MyFirstProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
